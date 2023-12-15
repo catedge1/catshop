@@ -6,6 +6,7 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 3. Open terminal inside the folder with code.
 
  $ . venv/bin/activate
+ 
  $ cd e_shop-main
  
 5. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
