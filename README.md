@@ -8,4 +8,7 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
    
    $ pip install -r requirements.txt
 6. Type python manage.py runserver to start a localhost server for the app.
-7. The API is started and now you can use the API routes to give requests.
+
+   $ python3 manage.py runserver 0.0.0.0:5003
+   
+8. The API is started and now you can use the API routes to give requests.
