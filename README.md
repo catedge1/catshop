@@ -5,6 +5,7 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 2. Download Python
 3. Open terminal inside the folder with code.
 4. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
+   
    $ pip install -r requirements.txt
 6. Type python manage.py runserver to start a localhost server for the app.
 7. The API is started and now you can use the API routes to give requests.
