@@ -4,7 +4,10 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 1. Clone this repository into a folder on your computer
 2. Download Python
 3. Open terminal inside the folder with code.
-4. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
+
+ $ . venv/bin/activate
+ $ cd e_shop-main
+5. Type pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
    
    $ pip install -r requirements.txt
 6. Type python manage.py runserver to start a localhost server for the app.
